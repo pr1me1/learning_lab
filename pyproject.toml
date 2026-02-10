@@ -1,0 +1,29 @@
+[project]
+name = "pytorch"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "albumentations>=2.0.8",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "jupyter>=1.1.1",
+    "jupytext>=1.19.1",
+    "kaggle>=1.8.4",
+    "kagglehub>=0.4.2",
+    "matplotlib>=3.10.8",
+    "mlxtend>=0.24.0",
+    "numpy>=2.4.2",
+    "opencv-python>=4.13.0.92",
+    "pandas>=3.0.0",
+    "pillow>=12.1.0",
+    "pynvim>=0.6.0",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+    "torchinfo>=1.8.0",
+    "torchmetrics>=1.8.2",
+    "torchsummary>=1.5.1",
+    "torchvision>=0.25.0",
+    "tqdm>=4.67.3",
+    "ultralytics>=8.4.12",
+]
